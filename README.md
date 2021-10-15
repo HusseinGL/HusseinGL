@@ -6,4 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinGL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-api/top-langs?username=HusseinGL
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinGL)](https://github.com/anuraghazra/github-readme-stats)
+
