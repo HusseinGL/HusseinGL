@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/HusseinGL/HusseinGL/blob/main/giphy.gif)
+![Alt Text](https://imgur.com/t/spooktober/BdbSv8n)
 - 👋 Hi, I’m Hussein
 - 👀 I’m interested in Stripe
 - 📫 How to reach me Mr Hussein#2759
