@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/t/spooktober/BdbSv8n)](https://github.com/HusseinGL)
+[![MasterHead](imgur.com/t/spooktober/BdbSv8n)](https://github.com/HusseinGL)
 - 👋 Hi, I’m Hussein
 - 👀 I’m interested in Stripe
 - 📫 How to reach me Mr Hussein#2759
