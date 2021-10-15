@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="imgur.com/t/spooktober/BdbSv8n">
+
 - 👋 Hi, I’m Hussein
 - 👀 I’m interested in Stripe
 - 📫 How to reach me Mr Hussein#2759
