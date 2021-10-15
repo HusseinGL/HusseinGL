@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hussein
 - 👀 I’m interested in Stripe
 - 📫 How to reach me Mr Hussein#2759
-- eJJJJJJJJJJJJJ
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HusseinGL&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinGL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
